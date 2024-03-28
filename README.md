@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @barea22
+- 👋 Hi, I’m David Enendu
 - 👀 I’m interested in solving tasks, in the coding life, in the gym, sports and weekend outings.
 - 🌱 I’m currently learning python under data science.#watch out for that data scientist, I am aim to take over the woRLd of data and meta-data
 - 💞️ I’m looking to collaborate on new projects which aim at solving existing and potential problems in the area of data science and programming in general....
